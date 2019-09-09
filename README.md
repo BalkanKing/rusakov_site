@@ -1,1 +1,1 @@
-Building a personal webpage
+Jekyll based personal webpage.
